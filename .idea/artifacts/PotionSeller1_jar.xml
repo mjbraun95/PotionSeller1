@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="PotionSeller1_jar">
+    <output-path>$USER_HOME$/OSBot/Scripts</output-path>
+    <root id="archive" name="PotionSeller1_jar.jar">
+      <element id="module-output" name="PotionSeller1" />
+    </root>
+  </artifact>
+</component>
