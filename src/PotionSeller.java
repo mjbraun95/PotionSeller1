@@ -150,7 +150,7 @@ public class PotionSeller extends Script {
         getInventory().getItem(unfPotionType).interact("Use");;
         sleep(random( random(112,130), random(141,150)) );
         getInventory().getItem(ingredientType).interact();
-        sleep(random( random(812,830), random(841,850)) );
+        sleep(random( random(822,835), random(841,850)) );
 //        new ConditionalSleep(5000) {
 //            @Override
 //            public boolean condition() {
